@@ -40,6 +40,8 @@ For a more detailed breakdown, please refer to our full analysis in the Jupyter 
 
 README.md (This file)
 
+Project Briefing.pdf (Description of the challenge under THE MANHATTAN PROJECT)
+
 retail_data.csv (The raw dataset used for the challenge. Its uploaded in zip file due to file upload size limitations.)
 
 manhattan_analysis.ipynb (The main Jupyter Notebook with all our code and analysis)
